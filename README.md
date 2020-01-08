@@ -1,1 +1,1 @@
-# Tracing multi models(including Yolov3) into one intergrated models.
+# PyTorch JIT tracing multi models(including Yolov3) into one intergrated models.
